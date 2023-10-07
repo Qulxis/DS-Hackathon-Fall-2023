@@ -1,19 +1,21 @@
 ## **Columbia Data Science Society Datathon Fall 2023**
+
 ### **Team: Data Detectives**
+
 ### **Track: Energy**
 
 **Authors:**
+
 - [Andrew X](https://github.com/Qulxis)
 - [Kenneth M](https://github.com/Kennethm-spec)
 - [Bilal G](https://github.com/13trillion)
 
-
 **Project Description: Enhancing NYC Building Sustainability**
 
-**Introduction**   
+**Introduction**
 New York City is a frontrunner in environmental sustainability, dedicated to reducing greenhouse gas emissions and minimizing its ecological footprint. With over 70 percent of the city's emissions stemming from buildings, a 2010 mandate now requires large building owners to publicly disclose their energy and water consumption data, reflecting a shared commitment to a greener future.
 
-**Project Objective**    
+**Project Objective**
 This data analysis project aims to leverage NYC's building data to identify structures with disproportionately high carbon footprints compared to their size. Our objective is to provide insights and recommendations that promote sustainability in the city.
 
 **Key Objectives**
@@ -33,6 +35,7 @@ This data analysis project aims to leverage NYC's building data to identify stru
 - Increased public awareness about the environmental impact of buildings.
 
 ./
+
 ```
 ├── README.md
 ├── data
