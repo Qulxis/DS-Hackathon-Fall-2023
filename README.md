@@ -33,12 +33,14 @@ This data analysis project aims to leverage NYC's building data to identify stru
 - Increased public awareness about the environmental impact of buildings.
 
 ./
+```
 ├── README.md
 ├── data
-│   └── energy_track_data.csv
+│   └── energy_track_data.csv
 ├── requirements.txt
 ├── src
-│   └── Andrew_Cleaning.ipynb
+│   └── Andrew_Cleaning.ipynb
 └── tree.ipynb
 
 2 directories, 5 files
+```
