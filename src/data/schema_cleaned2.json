@@ -38,7 +38,6 @@
     "property_gfa_self_reported": "float64",
     "property_gfa_calculated": "float64",
     "last_modified_date_property": "object",
-    "last_modified_date_property_1": "object",
     "number_of_active_energy_meters": "float64",
     "number_of_active_it_meters": "float64",
     "generation_date": "object",
