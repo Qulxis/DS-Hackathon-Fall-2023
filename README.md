@@ -1,6 +1,6 @@
 ## **Columbia Data Science Society Datathon Fall 2023**
 
-### **Team: Data Detectives**
+### **Team: Eco Innovators**
 
 ### **Track: Energy**
 
@@ -38,12 +38,44 @@ This data analysis project aims to leverage NYC's building data to identify stru
 
 ```
 ├── README.md
-├── data
-│   └── energy_track_data.csv
 ├── requirements.txt
 ├── src
-│   └── Andrew_Cleaning.ipynb
+│   ├── 1_Searching_the_domain.ipynb
+│   ├── 2_preprocessing.ipynb
+│   ├── 3_carbon_footprint_assessment.ipynb
+│   ├── 4_feature_analysis.ipynb
+│   ├── 5_net_emission_regression.ipynb
+│   ├── data
+│   │   ├── data_cleaned.csv
+│   │   ├── data_cleaned2.csv
+│   │   ├── data_cleaned3.csv
+│   │   ├── data_full.csv
+│   │   ├── feature_selection.json
+│   │   ├── feature_selection2.json
+│   │   ├── map_files
+│   │   │   ├── ZIP_CODE_040114.dbf
+│   │   │   ├── ZIP_CODE_040114.prj
+│   │   │   ├── ZIP_CODE_040114.sbn
+│   │   │   ├── ZIP_CODE_040114.sbx
+│   │   │   ├── ZIP_CODE_040114.shp
+│   │   │   ├── ZIP_CODE_040114.shp.xml
+│   │   │   └── ZIP_CODE_040114.shx
+│   │   ├── plots
+│   │   │   ├── Average Carbon Emissions per ZIP Code in NYC.png
+│   │   │   ├── Correlation Matrix.png
+│   │   │   ├── Emissions Efficiency per ZIP Code in NYC.png
+│   │   │   ├── Year built vs Average National Median Site EUI (Lower indicates better energy efficiency).png
+│   │   │   ├── eigenvalues_explained.png
+│   │   │   ├── features_explained.png
+│   │   │   └── k-mean-cluster.png
+│   │   ├── schema.json
+│   │   ├── schema_cleaned.json
+│   │   ├── schema_cleaned2.json
+│   │   ├── schema_cleaned3.json
+│   │   └── selected_features.csv
+│   ├── general_insights.ipynb
+│   └── schema.py
 └── tree.ipynb
 
-2 directories, 5 files
+4 directories, 35 files
 ```
