@@ -60,5 +60,12 @@
     "number_of_active_energy_meters_2": "remove",
     "number_of_active_it_meters": "keep",
     "generation_date": "keep",
-    "submission_date": "keep"
+    "submission_date": "keep",
+    "latitude": "keep",
+    "longitude": "keep",
+    "community_board": "keep",
+    "council_district": "keep",
+    "census_tract": "keep",
+    "nta": "keep",
+    "borough":"keep"
 }

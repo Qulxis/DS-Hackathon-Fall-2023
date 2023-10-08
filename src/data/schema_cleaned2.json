@@ -3,7 +3,7 @@
     "year_ending": "object",
     "nyc_borough_block_and_lot": "object",
     "address_1": "object",
-    "postal_code": "object",
+    "postal_code": "int64",
     "primary_property_type_self": "object",
     "national_median_reference": "object",
     "largest_property_use_type_1": "float64",
@@ -42,5 +42,12 @@
     "number_of_active_energy_meters": "float64",
     "number_of_active_it_meters": "float64",
     "generation_date": "object",
-    "submission_date": "object"
+    "submission_date": "object",
+    "latitude": "float64",
+    "longitude": "float64",
+    "community_board": "float64",
+    "council_district": "float64",
+    "census_tract": "float64",
+    "nta": "object",
+    "borough": "object"
 }

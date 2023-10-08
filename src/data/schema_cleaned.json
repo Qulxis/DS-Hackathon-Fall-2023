@@ -6,7 +6,7 @@
     "nyc_building_identification": "object",
     "address_1": "object",
     "city": "object",
-    "postal_code": "object",
+    "postal_code": "int64",
     "primary_property_type_self": "object",
     "primary_property_type": "object",
     "national_median_reference": "object",
@@ -60,5 +60,12 @@
     "number_of_active_energy_meters_2": "float64",
     "number_of_active_it_meters": "float64",
     "generation_date": "object",
-    "submission_date": "object"
+    "submission_date": "object",
+    "latitude": "float64",
+    "longitude": "float64",
+    "community_board": "float64",
+    "council_district": "float64",
+    "census_tract": "float64",
+    "nta": "object",
+    "borough": "object"
 }
